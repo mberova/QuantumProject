@@ -1,5 +1,5 @@
 # QuantumProject
-Completed in the Honors Accelerated Calculus series at UW, taken with Ebru Bekyel. The project introduces readers to basic principles of quantum computing, and how it compares to classical computing. Takes a Linear Algebra approach to quantum, representing the state of qubits as a vector in a two-dimensional vector space.
+Completed in the Honors Accelerated Calculus series at UW, taken with Ebru Bekyel. The project introduces readers to basic principles of quantum computing, and how it compares to classical computing. Takes a Linear Algebra approach to quantum, representing the state of qubits as a vector in a two-dimensional vector space. Thanks also to my teammate for this project, Tina Hu.
 
 # Introduction
 
